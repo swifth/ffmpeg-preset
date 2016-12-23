@@ -1,6 +1,5 @@
 # ffmpeg-preset
 
-==============
 Supported the latest ffmpeg v3.2.2
 
 Currently these are just the example presets that ship with the ffmpeg zip, inside the ffpreset folder. In order to use them, they need to be in  a directory called .ffmpeg in $HOME.
