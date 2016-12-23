@@ -6,7 +6,7 @@
 
 - Yes, if you did a standard install you could just move them yourself. But it you used homebrew you would have to go and find them. Why do that? When you could just do this:
 
-> git clone git://github.com/joeyblake/FFmpeg-Presets.git ~/.ffmpeg
+> git clone git://github.com/swifth/ffmpeg-preset.git ~/.ffmpeg
 
 >> [NOTE] Pay attention to the command [ ~/.ffmpeg ] in the above line. 
 >> FFmpeg will search preset files in ~/.ffmpeg directory.
